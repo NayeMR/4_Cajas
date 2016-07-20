@@ -1,0 +1,31 @@
+
+.uno
+{
+	background-color:yellow;
+	padding: 15px 20px 15px 20px;
+	border: purple 1px  solid;
+	
+}	
+
+.dos
+{
+	padding: 10px 20px 10px 20px ;
+	border: blue 2px solid;
+	background-color:blue;
+}
+
+.tres
+{
+	padding: 10px 20px 10px 20px;
+	border: green 3px dotted;
+	background-color:purple;
+}
+p{
+	color: black;
+	font-family: Verdana;
+
+}
+
+
+
+
